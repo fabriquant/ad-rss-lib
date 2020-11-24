@@ -1,2 +1,3 @@
-build*
-doc/apidoc/html
+/build/
+/install/
+/log/
